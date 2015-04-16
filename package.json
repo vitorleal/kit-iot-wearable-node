@@ -1,6 +1,6 @@
 {
   "name": "kit-iot-wearable-ble",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Módulo Bluetooth (BLE) para o Kit IoT Wearable da Telefonica VIVO",
   "main": "index.js",
   "scripts": {
