@@ -1,7 +1,7 @@
 {
-  "name": "kit-iot-wearable",
-  "version": "1.0.5",
-  "description": "API Bluetooth (BLE) para o Kit IoT Wearable v.3 da Telefonica VIVO",
+  "name": "kit-iot-wearable-ble",
+  "version": "1.0.6",
+  "description": "Módulo Bluetooth (BLE) para o Kit IoT Wearable da Telefonica VIVO",
   "main": "index.js",
   "scripts": {
     "test": "mocha test",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/telefonicadigital/kit-iot-wearable-node"
+    "url": "https://github.com/telefonicadigital/kit-iot-wearable-node/tree/ble"
   },
   "keywords": [
     "ble",
