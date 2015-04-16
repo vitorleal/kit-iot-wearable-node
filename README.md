@@ -22,7 +22,7 @@ O kit possui os seguintes sensores:
 Para utilizar o módulo instale ele utilizando o [npm](https://www.npmjs.com/)
 
 ```
-$ npm install kit-iot-wearable
+$ npm install kit-iot-wearable-ble
 ```
 
 ### Dependência de sistema operacional
