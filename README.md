@@ -15,7 +15,7 @@ O kit possui os seguintes sensores:
   * Buzzer
 
 
-## Mantenha o Sketch Arduino do seu Kit Wearable atualizado
+## Mantenha o Sketch Arduino do seu Kit IoT Wearable atualizado
 [Link](https://github.com/telefonicadigital/kit-iot-wearable-arduino) - faça o download do sketch e suba no seu Kit Wearable utilizadno a IDE do Arduino.
 
 ## Como utilizar
@@ -28,10 +28,10 @@ $ npm install kit-iot-wearable-ble
 ### Dependência de sistema operacional
 
 ##### Mac
-  * Install [Xcode](https://itunes.apple.com/ca/app/xcode/id497799835?mt=12)
+  * Instalar o [Xcode](https://itunes.apple.com/ca/app/xcode/id497799835?mt=12)
 
 ##### Linux (Ubuntu)
-  * Kernel version 3.6 or above
+  * Versão de Kernel > 3.6
   * ```sudo apt-get install bluetooth bluez-utils libbluetooth-dev```
   * Rodar como ```sudo```
 
