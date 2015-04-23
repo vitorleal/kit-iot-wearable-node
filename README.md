@@ -62,7 +62,7 @@ Veja a documentação - [link](DOCS.md)
 Veja a documentação do módulo bluetooth HM-13 - [link](http://www.seeedstudio.com/wiki/images/3/32/Bluetooth_HM-13_en.pdf)
 
 ## Lista de comandos do Wearable
-Veja a lista de comandos [aqui](https://github.com/telefonicadigital/kit-iot-wearable-node/wiki/Comandos-padr%C3%B5es-do-Wearable)
+Veja a lista de comandos [aqui](https://github.com/telefonicadigital/kit-iot-wearable/wiki/Comandos-do-Wearable)
 
 ## Autor
 | [![twitter/vitorleal](http://gravatar.com/avatar/e133221d7fbc0dee159dca127d2f6f00?s=80)](http://twitter.com/vitorleal "Follow @vitorleal on Twitter") |
