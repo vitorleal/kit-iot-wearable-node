@@ -15,11 +15,11 @@ Módulo de [Node.js](http://nodejs.org/) para conectar via bluetooth com o [Kit 
   * Buzzer
 
 #### Mantenha o Sketch Arduino do seu Kit IoT Wearable atualizado
-[Link](https://github.com/telefonicadigital/kit-iot-wearable-arduino) - faça o download do sketch e suba no seu Kit Wearable utilizadno a IDE do Arduino.
+[Link](https://github.com/telefonicadigital/kit-iot-wearable-arduino) - faça o download do sketch e suba no seu Kit Wearable utilizando a IDE do Arduino.
 
 
 ## Como utilizar
-Para utilizar o módulo primeiro instale ussndo o [npm](https://www.npmjs.com/)
+Para utilizar o módulo primeiro instale usando o [npm](https://www.npmjs.com/).
 
 ```
 $ npm install kit-iot-wearable
