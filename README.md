@@ -40,7 +40,7 @@ $ npm install kit-iot-wearable
 
 #### Exemplo de utilização
 ```js
-var Wearable = require('kit-iot-wearable-bluetooth2'),
+var Wearable = require('kit-iot-wearable'),
     kit = new Wearable({
       name: 'name-of-your-wearable'
     });
