@@ -1,6 +1,6 @@
 {
   "name": "kit-iot-wearable",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Módulo para o Kit IoT Wearable da Telefonica VIVO",
   "main": "index.js",
   "scripts": {
